@@ -1,0 +1,28 @@
+ Frameworks js - Adryelly
+
+React
+- Renderização de componentes
+- Comunidade grande e consolidada
+- Muito conteúdo para aprender
+- Fortemente requisitado nas grandes empresas
+- Dificil de dominar e se acostumar
+
+Next
+- Parecido com o React
+- Renderização rápida
+- Comunidade crescente
+- Assim como no React, há uma dificuldade de aprendizado
+
+Svelte
+- Comunidade crescente
+- Fácil de aprender
+- Utiliza o HTML, CSS e JS padrão
+- Como a comunidade é relativamente nova, não é possível encontrar uma grande quantidade de conteúdo como nas de outros frameworks
+- Não possui tantas empresas e projetos grandes que utilizam o framework
+
+Vue
+- Comunidade crescente e colaborativa
+- Carregamento leve
+- Fácil de aprender
+- Algumas funcionalidades limitadas
+- Relativamente novo
