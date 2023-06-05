@@ -1,13 +1,13 @@
 Relatório do React, Next.js, Svelte e Vue.js
 
-Todos esses frameworks são novos, sendo o React o mais antigo com 10 anos, e os mais recentes sendo o Next.js e o Svelte com 5 anos. Cada um deles possui pró e contras. O React possui uma grande comunidade e muitas bibliotecas disponíveis, porém pode ser complicado para iniciantes e tem arquivos pesados, além de algumas bibliotecas menos maduras. O Next.js tem diversos tipos de suporte e tem um tempo de desenvolvimento mais rápido, mas como é uma linguagem mais nova, pode não ter uma base sólida, pois está sempre recebendo atualizações. O Svelte, por sua vez, possui arquivos menores em comparação com o React e uma sintaxe mais fácil e clara para ser aprendida, mas também tem bibliotecas menos maduras e pode ser um pouco complicado para iniciantes. O Vue.js possui um conjunto de bibliotecas maduras e um bom desempenho, graças ao seu sistema de renderização reativa. No entanto, o Vue.js ainda é menos adotado por empresas, e às vezes pode ser necessário recorrer a bibliotecas externas para obter suporte adicional. 
+Todos esses frameworks são novos, sendo o React o mais antigo com 10 anos, e os mais recentes sendo o Next.js e o Svelte com 5 anos. Cada um deles possui pró e contras. O React possui uma grande comunidade e muitas bibliotecas disponíveis, porém pode ser complicado para iniciantes e tem arquivos pesados, além de algumas bibliotecas menos maduras. O Next.js tem diversos tipos de suporte e tem um tempo de desenvolvimento mais rápido, mas como é uma linguagem mais nova, pode não ter uma base sólida, pois está sempre recebendo atualizações. O Svelte, possui arquivos menores em comparação com o React e é mais fácil e clara para ser aprendida, mas também tem bibliotecas menos maduras e pode ser um pouco complicado para iniciantes. O Vue.js possui bibliotecas maduras e um bom desempenho, devido ao seu sistema de renderização reativa. O Vue.js ainda é menos escolhido por empresas, e às vezes pode ser necessário procurar bibliotecas externas para ter uma ajuda mais complexas. 
 
 
 Mercado de Trabalho
 
-O React é amplamente utilizado no mercado e possui uma alta demanda por desenvolvedores em empresas renomadas, tais como Facebook, Instagram, Airbnb e Netflix. Ele oferece ótimas oportunidades de carreira para desenvolvedores frontend, desenvolvedores full-stack e arquitetos de software.
+O React é  muito utilizado no mercado e possui uma grande demanda por desenvolvedores em empresas como Facebook, Instagram, Airbnb e Netflix. Ele tem ótimas oportunidades de carreira para desenvolvedores frontend, desenvolvedores full-stack e arquitetos de software.
 
-O Next.js, embora não seja tão amplamente utilizado como o React, está ganhando espaço devido aos projetos que utilizam SSR (renderização do lado do servidor) e SSG (geração estática). Essas tecnologias são utilizadas para melhorar o desempenho, SEO e experiência do usuário. Com esse aumento de adoção, o Next.js representa uma competição no mercado de trabalho, com oportunidades em ascensão.
+O Next.js, embora não seja tão utilizado como o React, está ganhando espaço devido aos projetos que utilizam SSR e SSG . Elas são utilizadas para melhorar o desempenho e experiência do usuário. Com esse fama tem ganhado, o Next.js mostra  uma competição no mercado de trabalho.
 
 O Svelte não é muito diferente do Next.js em relação ao mercado de trabalho. Ele se torna mais atraente para empresas que valorizam desenvolvimento eficiente. Embora a demanda por profissionais especializados em Svelte seja menor, pode se tornar um diferencial exclusivo em algumas empresas.
 
@@ -16,4 +16,4 @@ O Vue.js tem sido amplamente adotado no mercado de trabalho, com empresas como A
 
 Qual devemos trabalhar?
 
-Na minha opinião, devemos trabalhar com o React, pois é o mais antigo e maduro de todos, além de já termos uma base de conhecimento consolidada. Por outro lado, o Svelte também pode ser interessante, pois sua linguagem parece ser a menos complicada entre todos eles.
+Na minha opinião, devemos trabalhar com o React, pois é o mais antigo e maduro de todos, além de já termos uma base. De segunda opção o Svelte, pois sua linguagem parece ser a menos complicada entre todos eles.
