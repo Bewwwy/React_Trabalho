@@ -1,7 +1,7 @@
  Frameworks js - Adryelly
 
 React
-- Renderização de componentes
+- Renderização inteligente de componentes
 - Comunidade grande e consolidada
 - Muito conteúdo para aprender
 - Fortemente requisitado nas grandes empresas
